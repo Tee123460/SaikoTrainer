@@ -1,0 +1,43 @@
+====================================================
+  SAIKO TRAINER - INSTALL
+====================================================
+
+โมดเทรนเนอร์ฟรีสำหรับเกม Single-player "Saiko no Sutoka"
+Free trainer/mod for the single-player game "Saiko no Sutoka"
+
+----------------------------------------------------
+วิธีติดตั้ง / HOW TO INSTALL
+----------------------------------------------------
+1. ติดตั้ง MelonLoader ให้เกมก่อน (https://melonloader.co)
+   - เลือกไฟล์ Saiko no sutoka.exe ตอนติดตั้ง
+2. ถ้ายังไม่เคยเปิดเกม ให้เปิดเกม 1 ครั้ง แล้วปิด
+   (เพื่อให้ MelonLoader สร้างโฟลเดอร์ Mods)
+3. ก๊อปไฟล์  Mods\SaikoTrainer.dll
+   ไปวางในโฟลเดอร์:
+   <Steam>\steamapps\common\Saiko no sutoka\Mods\
+4. เปิดเกม แล้วกดปุ่ม  Insert  เพื่อเปิดเมนู
+
+1. Install MelonLoader for the game (https://melonloader.co),
+   selecting Saiko no sutoka.exe when asked.
+2. Launch the game once, then close it, so MelonLoader creates the Mods folder.
+3. Copy  Mods\SaikoTrainer.dll  into:
+   <Steam>\steamapps\common\Saiko no sutoka\Mods\
+4. Start the game and press  Insert  to open the menu.
+
+----------------------------------------------------
+ปุ่มใช้งาน / KEYS
+----------------------------------------------------
+Insert .................. เปิด/ปิดเมนู (open/close menu)
+ลากแถบชื่อ .............. ย้ายเมนู (drag title bar to move)
+WASD + Space/Ctrl ....... No Clip
+
+----------------------------------------------------
+หมายเหตุ / NOTES
+----------------------------------------------------
+- สำหรับเล่นคนเดียวเท่านั้น (single-player only)
+- ไม่รวมไฟล์เกมใดๆ (no game files included)
+- บางโปรแกรมแอนตี้ไวรัสอาจเตือน false positive
+- สัญญาอนุญาต MIT (ดูไฟล์ LICENSE)
+
+ เครดิต / Credit: Sinjiratha
+====================================================
