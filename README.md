@@ -42,6 +42,9 @@ User Interface
 
 
 
+
+
+
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/78e4c0df-eda7-4000-b7b1-4b6267feac94" />
 
 
